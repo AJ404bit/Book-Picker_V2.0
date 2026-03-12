@@ -1,7 +1,7 @@
 # 📚 Book Picker v2.0
 **By AJ404Bit**
 
-Book Picker is a sleek, modern Windows desktop application designed to help you manage your personal reading list. Say goodbye to decision fatigue—this app lets you build a cozy digital library, track your reading progress, and let fate (and a randomizer) pick your next book. ☕🍂
+Book Picker is a sleek, modern Windows desktop application designed to help you manage your personal reading list. Say goodbye to decision fatigue—this app lets you build a cosy digital library, track your reading progress, and let fate (and a randomiser) pick your next book. ☕🍂
 
 ## ✨ What's New in Version 2.0
 Version 2.0 is a massive rewrite from the ground up, transitioning from a text-based console menu to a premium graphical interface.
@@ -14,7 +14,7 @@ Version 2.0 is a massive rewrite from the ground up, transitioning from a text-b
 ## 🚀 Features
 * **Smart Search:** Search for any book, select the correct edition from a dropdown menu, and visually confirm the cover art.
 * **Status Tracking:** Easily categorize your books as *To Read*, *Reading*, or *Finished* via the library grid dropdowns.
-* **"Pick Random" Engine:** Can't decide what to read? The app filters your library for "To Read" books and randomly selects one for you, complete with a cozy pop-up.
+* **"Pick Random" Engine:** Can't decide what to read? The app filters your library for "To Read" books and randomly selects one for you, complete with a cosy pop-up.
 * **Error-Proof Removal:** Delete books safely using a populated dropdown menu—no exact typing required.
 * **Local JSON Storage:** Your library is securely saved locally to a `books.json` file in your Documents folder using Gson, ensuring it is fast, offline, and completely private.
 
